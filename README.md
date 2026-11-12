@@ -1,10 +1,8 @@
-# NBA 2025-26 Efficiency Dashboard (Power BI)
+# NBA 2025-26 Efficiency Dashboard 
 
-An interactive Power BI dashboard analyzing 2025-26 NBA player performance
+An interactive Tableau dashboard analyzing 2025-26 NBA player performance
 
-**[View the live dashboard](https://app.powerbi.com/links/x3k65mEB0u?ctid=a8046f64-66c0-4f00-9046-c8daf92ff62b&pbi_source=linkShare)**
-
-*(Note: this is a Power BI Share link — may require sign-in depending on access settings.)*
+**[View the live dashboard](**https://public.tableau.com/views/NBA2025-2026Dashboard/NBADashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**)**
 
 ## What it shows
 
@@ -18,4 +16,4 @@ Sourced from Basketball-Reference (2025-26 season, per-game stats). True shootin
 
 ## Tools
 
-Power BI (dashboarding), Python (data cleaning and derived metrics)
+Tableau (dashboarding), Python (data cleaning and derived metrics)
