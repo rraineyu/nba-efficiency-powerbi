@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analyzing 2025-26 NBA player performance
 
-**[View the live dashboard] **(**https://public.tableau.com/views/NBA2025-2026Dashboard/NBADashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**)**
+**[View the live dashboard](https://public.tableau.com/app/profile/raine.yu/viz/NBA2025-2026Dashboard/NBADashboard)**
 
 ## What it shows
 
